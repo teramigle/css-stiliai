@@ -6,6 +6,7 @@
 
 body {
     background-color: #dcceb1;
+    font-family: "Crimson Text", serif;
 }
 
 article {
@@ -28,6 +29,7 @@ h3 {
     padding: 10px;
     margin: 10px auto;
     width: 300px;
+    
 }
 
 div{
@@ -43,4 +45,8 @@ p {
 
 .italic {
     font-style: italic;
+}
+
+span {
+    font-weight: bold;
 }

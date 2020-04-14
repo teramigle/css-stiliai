@@ -19,8 +19,7 @@ article {
 img {
     width: 300px;
     display: block;
-    margin: 0 auto;
-    
+    margin: 0 auto;  
 }
 
 h3 {
@@ -40,9 +39,7 @@ div{
 }
 
 p {
-    padding-bottom: 10px;
-    
-    
+    padding-bottom: 10px; 
 }
 
 .italic {
